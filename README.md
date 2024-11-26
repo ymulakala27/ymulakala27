@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaswanth Mulakala</h1>
-<h3 align="center">An aspiring Data Analyst and also a graduate student at Clemson University.</h3>
+<h3 align="center">A proud alum of Clemson University and an experienced Data Manager.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpmb3UzbzQwdW44NWVrNmw1ZW9qdms4dXZwaWs1ejZmbTdwZ3lzdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 - 🔭 I’m currently working on **improving my coding skills in Python.**
